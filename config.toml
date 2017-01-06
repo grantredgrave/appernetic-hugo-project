@@ -1,14 +1,14 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "http://www.example.com"
+baseurl = "https://grantredgrave.github.io"
 
 # Site title
-title = "sitename"
+title = "Norrviken"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "(c) 2017 Grant Redgrave."
 
 # Language
-languageCode = "en-EN"
+languageCode = "en"
 
 # SES friendly url:s
 canonifyurls = true
